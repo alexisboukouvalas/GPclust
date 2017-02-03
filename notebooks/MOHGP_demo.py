@@ -2,7 +2,7 @@ import numpy as np
 import pylab as pb
 import sys
 import GPy
-from colvb import MOHGP
+from GPclust import MOHGP
 np.random.seed(1)
 pb.close('all')
 
